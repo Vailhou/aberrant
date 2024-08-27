@@ -6,7 +6,7 @@ A survival puzzle horror game made with Unreal Engine 5
 ## Description
 The project started as [Themed Horror Game Jam #17](https://itch.io/jam/themed-horror-game-jam-17) entry and a learning experience as the first UE game for vailhou. Left unfinished by the deadline, we wanted to make the game a complete experience.
 
-The game aims for an extremely immersive and atmospheric experience in the spirit of Amnesia: The Dark Descent. Developing physics based puzzles where the player has to use common sense like in the real world helps to achieve that goal.
+The game aims for an extremely immersive and atmospheric experience in the spirit of Amnesia: The Dark Descent. Developing physics based puzzles where the player has to use common sense helps to achieve that goal.
 
 How the game has been made:
 - The visuals of the game have been built using free 3D assets and original 2D art.
@@ -18,8 +18,8 @@ How the game has been made:
 - Clone the repository and run the .uproject file located in the root.
 
 ## How to Use the Project
-- Make use of git branches
-- Communicate with other collabrators before making changes to maps or project structure to prevent conflicts
+- Make use of git branches.
+- Communicate with other collabrators before making changes to maps or project structure to prevent conflicts.
 
 ## Credits
 ### Core team
@@ -29,12 +29,13 @@ How the game has been made:
 - Suvi Jylhä
   - 2D Artist, Story Designer
   - [LinkedIn](https://www.linkedin.com/in/suvijjylha/), [GitHub](https://github.com/suvijj)
-### Additional collabrators
+### Additional collaborators
 - Sampo Kupiainen
   - Level Designer
   - [LinkedIn](https://www.linkedin.com/in/sampo-kupiainen/), [GitHub](https://github.com/SJJK-Himself)
-- Eero
+- Eero Turunen
   - 3D Artist
+  - [LinkedIn](https://www.linkedin.com/in/eero-turunen/), [GitHub](https://github.com/tu0ni)
 
 ### Assets
 Listing credits for the free assets used in the project. Crediting CC0 content is not necessary, but if the content has an important part in the game, crediting is a good manner.
