@@ -1,4 +1,4 @@
-# ICHTHYIC
+# Aberrant: The Offering
 A survival puzzle horror game made with Unreal Engine 5
 
 [![Demo video](https://img.youtube.com/vi/tpm9ypPpjA8/0.jpg)](https://www.youtube.com/watch?v=tpm9ypPpjA8)
