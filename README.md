@@ -24,12 +24,15 @@ How the game has been made:
 ## Credits
 ### Core team
 - Vilho Polamo
-  - Director, Programmer, Sound Designer, Game Designer, Story Designer
+  - Director, Programmer, Sound Generalist
   - [LinkedIn](https://www.linkedin.com/in/vilho-polamo/), [GitHub](https://github.com/Vailhou)
 - Suvi Jylhä
-  - 2D Artist, Story Designer
+  - 2D Artist, Narrative Designer
   - [LinkedIn](https://www.linkedin.com/in/suvijjylha/), [GitHub](https://github.com/suvijj)
-### Additional collaborators
+- Annabelle Chansler
+  - Marketer
+  - [LinkedIn](https://www.linkedin.com/in/annabelle-chansler/)
+### Visiting collaborators
 - Sampo Kupiainen
   - Level Designer
   - [LinkedIn](https://www.linkedin.com/in/sampo-kupiainen/), [GitHub](https://github.com/SJJK-Himself)
